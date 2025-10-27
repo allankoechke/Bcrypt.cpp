@@ -7,7 +7,7 @@ A C++ wrapper around [bcrypt](https://en.wikipedia.org/wiki/Bcrypt) (origin: Ope
 Here an example how to use this wrapper class
 
 ```cpp
-#include "bcrypt.h"
+#include "bcrypt-cpp/bcrypt.h"
 #include <iostream>
 #include <string>
 
